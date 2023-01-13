@@ -1,0 +1,77 @@
+body {background-color:rgb(21, 147, 175)
+}
+
+
+
+header nav ul {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:large;
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0 0;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+header nav ul a {
+    background-color:rgb(18, 102, 116);
+    padding: 1rem 11rem ;
+    color: rgb(184, 210, 210);
+    border: 2px solid rgb(13, 78, 89);
+    text-decoration: none;
+
+}
+
+
+h1 {
+    font-size: 5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    color: rgb(7, 37, 81);
+}
+
+h2 {
+    font-size: 4rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(16, 13, 93);
+}
+
+h3 {
+    font-size: 3rem;
+    font-family:'Courier New', Courier, monospace;
+}
+h4 {
+    font-size: 2rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+feBlend
+img{
+    max-width: 100%;
+}
+
+img.medium-size {
+    width: 500px;
+}
+
+footer {
+    border-top: 2px solid rgb(0, 13, 100);
+
+}
+
+footer ul {
+    font-family:monospace;
+    font-size:large;
+    list-style: none;
+    padding-top: 1;
+    margin: 1rem 0 0;
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+
+footer ul a {
+    padding: 1rem 0rem ;
+    color: black;
+    text-decoration: none;
+}

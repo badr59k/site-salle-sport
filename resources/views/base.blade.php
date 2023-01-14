@@ -26,11 +26,7 @@
     <footer>
             <ul>
                 <li>Copyright Basic Frite, 2022</li>
-                <li>//</li>
-                <li><a href="{{ route('contact')}}">Contact</a></li>
-                <li>//</li>
                 <li><a href="{{ route('mentions_legales')}}">Mentions Légales</a></li>
-
             </ul>
     </footer>
 </body>

@@ -13,14 +13,14 @@
     <header>
         <nav>
             <ul>
-            <li><a href="{{ route('accueil')}}">Accueil</a></li>
+            <li><a href="{{ route('accueil')}}">BasicFrite</a></li>
             <li><a href="{{ route('cours')}}">Cours</a></li>
             <li><a href="{{ route('contact')}}">Contact</a></li>
             <li><a href="{{ route('tarifs')}}">Tarifs</a></li>
             </ul>
         </nav>
     </header>
-    <h1> Basic Frite </h1>
+    <h1> BasicFrite </h1>
     @section('content')
     @show
     <footer>

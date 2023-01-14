@@ -1,7 +1,5 @@
-body {background-color:rgb(21, 147, 175)
+body {background-color:rgb(255, 255, 255)
 }
-
-
 
 header nav ul {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -11,42 +9,40 @@ header nav ul {
     margin: 1rem 0 0;
     display: flex;
     justify-content: space-around;
-    
 }
 
 header nav ul a {
-    background-color:rgb(36, 72, 79);
+    background-color:rgb(254, 112, 0);
     padding: 1rem 9rem ;
-    color: rgb(184, 210, 210);
-    border: 2px solid rgb(6, 22, 26);
+    color: rgb(0, 0, 0);
     text-decoration: none;
-
 }
 
 
 h1 {
     font-size: 5rem;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
-    color: rgb(7, 37, 81);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: rgb(254, 112, 0);
 }
 
 h2 {
     font-size: 4rem;
-    font-family: 'Courier New', Courier, monospace;
-    color: rgb(16, 13, 93);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
 }
 
 h3 {
     font-size: 3rem;
-    font-family:'Courier New', Courier, monospace;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 h4 {
     font-size: 2rem;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
 body ul li { 
-    color: rgb(10, 10, 109);
+    color: rgb(254, 112, 0);
     font-size: 2rem;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -57,11 +53,11 @@ img{
 }
 
 img.medium-size {
-    width: 500px;
+    width: 700px;
 }
 
 footer {
-    border-top: 2px solid rgb(0, 13, 100);
+    border-top: 2px solid rgb(254, 112, 0);
     border-top-style:dotted ;
 }
 
@@ -73,7 +69,6 @@ footer ul {
     margin: 1rem 0 0;
     display: flex;
     justify-content:space-evenly;
-    
 }
 
 footer ul a {

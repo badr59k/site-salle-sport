@@ -14,33 +14,24 @@
         <h3>Contactez-nous</h3>
         <div class ="separation"></div>
         <div class ="corps_formulaire">
-            <div class="gauche">
                 <div class="groupe">
-                    <div class="boite"></div>
-                        <label>Votre prénom</label>
-                        <input type="text">
-                        <i class="fa-solid fa-user"></i>
-                    <div class="boite"></div>
-                        <label>Votre adresse e-mail</label>
-                        <input type="text">
-                        <i class="fa-regular fa-envelope"></i>
-                    <div class="boite"></div>
-                        <label>Votre demande</label>
-                        <input type="text">
-                        <i class="fa-regular fa-message"></i>
+                    <label>Votre adresse e-mail :</label>
+                    <input type="text">
+                    <i class="fa-regular fa-envelope"></i>
                 </div>
-            </div>
-            <div class="droite">
                 <div class="groupe">
-                    <label>Message</label>
-                    <textarea></textarea>
+                    <label>Votre demande :</label>
+                    <input type="text">
+                    <i class="fa-solid fa-question"></i>
                 </div>
-            </div>
+                <div class="groupe">
+                    <label>Votre message :</label>
+                    <textarea name="" id="" cols="30" rows="10"></textarea>
+                    <i class="fa-regular fa-message"></i>
+                </div>
         </div>
-
         <div class="pied_formulaire">
             <button>Envoyer le message</button>
         </div>
     </form>
-
 @endsection

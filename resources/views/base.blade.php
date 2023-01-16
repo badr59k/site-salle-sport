@@ -25,7 +25,7 @@
     @show
     <footer>
             <ul>
-                <li>Copyright Basic Frite, 2022</li>
+                <li>Copyright BasicFrite, 2022</li>
                 <li><a href="{{ route('mentions_legales')}}">Mentions Légales</a></li>
             </ul>
     </footer>

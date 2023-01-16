@@ -1,4 +1,4 @@
-# Projet Restaurant
+# Projet Site Salle Sport
 
 Projet de site d'une salle de sport construit avec Laravel 9.
 

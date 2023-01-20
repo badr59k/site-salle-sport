@@ -12,6 +12,8 @@ Projet de site d'une salle de sport construit avec Laravel 9.
 ## Installation
 
 ```bash
+git clone https://github.com/badr59k/site-salle-sport.git
+cd site-salle-sport
 composer install
 npm install
 ```
